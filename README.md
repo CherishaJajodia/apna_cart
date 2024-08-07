@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+We can use this to upload list of items along with price and quantity in order to calculate the total bill of the purchase.
+
 ## Available Scripts
 
 In the project directory, you can run:
